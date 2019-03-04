@@ -7,6 +7,6 @@ OBSERVAÇÃO:
 
 2 - Caso não tenha o jogo MINECRAFT Instalado na RASPBERRY abra o Terminal e digite: sudo apt-get install minecraft-pi
 
-3 - Observar que será necessário um Sensor DS1820 e ligá-lo corretamente aos pinos da RASPBERRY. Veja em DS1820.png.
+3 - Observar que será necessário um Sensor DS1820 e ligá-lo corretamente aos pinos da RASPBERRY. Veja DS1820.png.
 
 
