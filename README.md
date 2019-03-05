@@ -9,7 +9,8 @@ OBSERVAÇÃO:
 
 3 - Será necessário um Sensor DS1820 e ligá-lo corretamente aos pinos da RASPBERRY. Veja em DS1820.png.
 
-VISITEM:
+Site Interessante:
+
 https://www.softobiz.com/wp-content/uploads/2016/08/jacada-internet-of-things-diagram.png
 
 
