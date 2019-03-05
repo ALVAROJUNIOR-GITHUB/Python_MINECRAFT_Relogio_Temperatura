@@ -12,6 +12,6 @@ OBSERVAÇÃO:
 
 SITE INTERESSANTE:
 
-https://www.softobiz.com/wp-content/uploads/2016/08/jacada-internet-of-things-diagram.png
+https://www.makeuseof.com/tag/learn-python-electronics-minecraft-pi-edition/
 
 
