@@ -17,7 +17,7 @@ https://www.makeuseof.com/tag/learn-python-electronics-minecraft-pi-edition/
 
 EM ANEXO:
 
-3 arquivos em PDF de livros/revistas relacionados ao assunto.
+3 arquivos em PDF de revistas relacionadas ao assunto.
 
 
 
